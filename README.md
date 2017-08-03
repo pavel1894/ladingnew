@@ -1,2 +1,2 @@
-# ladingnew
+# landingnew
 bootstrap landing page
