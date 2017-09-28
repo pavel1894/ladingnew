@@ -1,2 +1,0 @@
-# landingnew
-bootstrap landing page
